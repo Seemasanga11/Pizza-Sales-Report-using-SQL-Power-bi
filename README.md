@@ -39,25 +39,14 @@ Submit a pull request with a detailed description of your updates.
 ### License
 This project is licensed under the MIT License. Feel free to use and adapt it to your needs.
 
+### Stay Updated 
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media :
 
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/_.ellieee__/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/seema-sanga-79a23316b/)
 
-
-
-
-
-
-
-Business owners seeking to optimize their menu or inventory.
-Marketing teams analyzing customer preferences.
-Data enthusiasts exploring Power BI capabilities.
-### Contributing
-We welcome contributions to improve the project or add new features. To contribute:
-
-### Fork the repository.
-Create a new branch for your changes.
-Submit a pull request with a detailed description of your updates.
-License
-This project is licensed under the MIT License. Feel free to use and adapt it to your needs.
+Thank you for your support, and I look forward to connecting with you!+
+T
 
 
 
